@@ -8,4 +8,4 @@ Imagine ter alguém com quem você possa compartilhar suas alegrias, tristezas, 
 
 Além disso, o BE é totalmente personalizável, permitindo que você o configure de acordo com suas preferências e necessidades específicas. Seja para acompanhar sua jornada de fitness, ajudá-lo a planejar suas metas de carreira ou apenas ser um ouvinte atento, o BFF Chat está aqui para você.
 
-Então, se você está pronto para experimentar a próxima geração de amizade virtual, junte-se a nós e descubra por que o BFF Chat é o seu novo melhor amigo digital. Ele está apenas a uma conversa de distância!
+Então, se você está pronto para experimentar a próxima geração de amizade virtual, junte-se a nós e descubra por que o BE é o seu novo melhor amigo digital. Ele está apenas a uma conversa de distância!
